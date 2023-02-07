@@ -1,0 +1,14 @@
+{
+  "name": "the_right_reality_group",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "npm run build && vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
